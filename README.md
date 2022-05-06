@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-  ![desktop-view](design/qr-code-component-desktop-view.jpg)
-  ![mobile-view](design/qr-code-component-mobile-view.jpg)
+  ![desktop-view](https://github.com/jcasare/FrontEndChallenges-qr-code-component/blob/main/design/qr-code-component-desktop-view.JPG?raw=true)
+  ![mobile-view](https://github.com/jcasare/FrontEndChallenges-qr-code-component/blob/main/design/qr-code-component-mobile-view.JPG?raw=true)
 
 
 ### Links
