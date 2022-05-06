@@ -1,3 +1,4 @@
+
 *{
   margin: 0;
   padding: 0;
@@ -13,6 +14,9 @@ body{
   align-items: center;
   justify-content: center;
 
+}
+h1{
+  font-size: 20px;
 }
 .container{
   width:260px;
@@ -34,13 +38,12 @@ body{
 
 .header-text{
   font-weight: 700;
-  font-size: 18px;
-  margin-bottom: 20px;
   color:hsl(218, 44%, 22%);
 }
 .sub-text{
   font-weight: 400;
   color: hsl(220, 15%, 55%);
+  margin-top: 10px;
 
 }
 .attribution{
