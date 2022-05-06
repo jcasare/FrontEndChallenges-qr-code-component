@@ -20,14 +20,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-  ![](design/qr-code-component-desktop-view.jpg)
-  ![](design/qr-code-component-mobile-view.jpg)
+  ![desktop-view](design/qr-code-component-desktop-view.jpg)
+  ![mobile-view](design/qr-code-component-mobile-view.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/jcasare/FrontEndChallenges-qr-code-component)
+- Live Site URL:(https://jcasare.github.io/FrontEndChallenges-qr-code-component/)
 
 ## My process
 
